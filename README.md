@@ -64,4 +64,4 @@ An interactive **Power BI dashboard** analyzing **U.S. electric vehicle (EV) gro
 └── dashboard_demo.gif
 ```
 
-### ⭐ If you found this helpful, consider giving the repo a **star**!
+### ⭐ If you found this project helpful , consider giving the repo a **star**!
