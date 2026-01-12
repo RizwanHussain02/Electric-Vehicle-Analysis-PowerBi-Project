@@ -64,11 +64,4 @@ An interactive **Power BI dashboard** analyzing **U.S. electric vehicle (EV) gro
 └── dashboard_demo.gif
 ```
 
-## 📬 Contact
-Created by **Rizwan Hussain**  
-
-**GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-RizwanHussain02-black?logo=github&logoColor=white)](https://github.com/RizwanHussain02)
-
-**LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rizwanhussain-)
-
 ### ⭐ If you found this helpful, consider giving the repo a **star**!
