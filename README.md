@@ -1,6 +1,6 @@
 # Electric Vehicle Analysis — Power BI Project
 
-An Interactive **Power BI dashboard** analyzing **U.S. electric vehicle (EV) growth**, **state-wise adoption**, **top manufacturers**, **CAFV eligibility**, and **EV model performance**.
+An Interactive **Power BI dashboard** analyzing the **U.S. electric vehicle (EV) growth**, **state-wise adoption**, **top manufacturers**, **CAFV eligibility**, and **EV model performance**.
 
 ---
 
